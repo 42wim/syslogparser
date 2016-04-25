@@ -2,7 +2,7 @@ package rfc3164cisco
 
 import (
 	"bytes"
-	"github.com/jeromer/syslogparser"
+	"github.com/42wim/syslogparser"
 	"time"
 )
 
